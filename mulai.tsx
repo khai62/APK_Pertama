@@ -1,0 +1,10 @@
+- Untuk memulai menulis aplikasi React native expo  Pastikan Anda telah menginstal Node.js dan npm (Node Package Manager) di komputer Anda.
+- kemudian Anda perlu menginstal Expo CLI dengan menggunakan perintah berikut:
+-- 1. buka CMD
+--- ketik
+-- 2. npm install -g expo-cli
+-- 3. expo init NamaProyekAnda
+--- kemudian pidah ke proyek anda dengan cara :
+-- 4. cd NamaProyekAnda
+--- untuk menjalankan proyek / aplikasi anda dengn cara :
+-- 4 npm start
